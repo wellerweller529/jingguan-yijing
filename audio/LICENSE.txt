@@ -1,0 +1,9 @@
+Real coin recordings used by 静观:
+
+- "coin sounds" by syncopika, OpenGameArt.org
+  https://opengameart.org/content/coin-sounds
+- "Coin Splash" by LordTomorrow, OpenGameArt.org
+  https://opengameart.org/content/coin-splash
+
+Both recordings are released under CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
